@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d642a6d27bf97a64792c01b05b7585a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Labirin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74fe5727b086a20478c392e969d115e3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
