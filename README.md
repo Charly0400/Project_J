@@ -1,19 +1,28 @@
 # JUNGLE - INTH
 
 
-Text Adventure es un juego creado en Unity3D para explicar el uso de TextMeshPro y bases de Anchors en Unity.
+Jungle - Inth es un juego creado en Unity3D para aplicar los conocimientos vistos durante el transcursi de mi 2do semestre de universad.
 
-Para probar el juego, ingresa [aqui](https://lazcarnitas.itch.io/text-adventure). 
+## Motivación
 
-## Instalación
+La intención es crear un prototipo funcional 3D para un proyecto escolar.
 
-Para descargar el proyecto, necesitas correr el siguiente comando en tu terminal.
+## Descarga del proyecto
+
+Para probar el juego, ingresa [aqui](https://lazcarnitas.itch.io/jungleinth).
+
+ * Descarga el archivo que se encuentra en en link.
+ * Una vez descargado, lo abres y ejecutas el archivo Jungle_Inth.exe
+
+
+## Clonación de proyecto.
+
+Para clonar el proyecto, necesitas correr el siguiente comando en tu terminal.
 
 ```bash
-git clone https://github.com/Charly0400/Text_Adventure.git
+git clone https://github.com/Charly0400/Project_J.git
 ```
-
-### Requisitos
+#### Requisitos
 
 Los requisitos para poder usar este repositorio.
 
@@ -21,22 +30,28 @@ Los requisitos para poder usar este repositorio.
 * Git.
 * IDE de tu preferencia.
 
-## Objetivos
+## Objetivos del juego
 
-Los objetivos de este juego se enumeran a continuación y se muestra su progreso.
+Jungle - Inth es un juego en donde después de despertar en una jungla buscas la manera de salir de esta, con ayuda de un pequeño compañero una guamaya azul la cual te ayudará dándote pistas. :bird:
 
-- [x] Hacer core mechanics.
-- [x] Finalizar game loop.
-- [x] Crear versiones web.
-- [x] Publicar el juego.
-- [x] Compartir el juego.
+##### Objetivos:
+ - Resolver los puzzles.
+ - Resolver los laberintos.
+
+ ## Controles :video_game:
+
+  - Para moverse:
+
+            W
+         A  S  D  
+
+- Para interactuar es haciendo click izq con el mouse :computer_mouse:.
+
+- Para agarrar objectos manten pulsado "E".
 
 ## Autores
 
-* :computer:  Carlos Lazcano - Programador - [@Charly0400](https://github.com/Charly0400). :computer:
-  
+* :computer:  Carlos Lazcano - Programador y Diseñador :computer::
 
-
-## Motivación
-
-Enseñar las bases de TextMeshPro a estudiantes de Unity.
+- Github: [@Charly0400](https://github.com/Charly0400). 
+- Itch:  [Lazcarnitas](https://lazcarnitas.itch.io/).
