@@ -1,7 +1,7 @@
 # JUNGLE - INTH
 
 
-Jungle - Inth es un juego creado en Unity3D para aplicar los conocimientos vistos durante el transcursi de mi 2do semestre de universad.
+Jungle - Inth es un juego creado en Unity3D para aplicar los conocimientos vistos durante el transcurso del 2do semestre de universad.
 
 ## Motivación
 
@@ -11,7 +11,7 @@ La intención es crear un prototipo funcional 3D para un proyecto escolar.
 
 Para probar el juego, ingresa [aqui](https://lazcarnitas.itch.io/jungleinth).
 
- * Descarga el archivo que se encuentra en en link.
+ * Descarga el archivo que se encuentra en el link.
  * Una vez descargado, lo abres y ejecutas el archivo Jungle_Inth.exe
 
 
@@ -32,7 +32,7 @@ Los requisitos para poder usar este repositorio.
 
 ## Objetivos del juego
 
-Jungle - Inth es un juego en donde después de despertar en una jungla buscas la manera de salir de esta, con ayuda de un pequeño compañero una guamaya azul la cual te ayudará dándote pistas. :bird:
+Jungle - Inth es un juego en donde después de despertar en una jungla buscas la manera de salir de esta, con ayuda de un pequeño compañero una, guacamaya azul, la cual te ayudará dándote pistas. :bird:
 
 ##### Objetivos:
  - Resolver los puzzles.
@@ -47,7 +47,7 @@ Jungle - Inth es un juego en donde después de despertar en una jungla buscas la
 
 - Para interactuar es haciendo click izq con el mouse :computer_mouse:.
 
-- Para agarrar objectos manten pulsado "E".
+- Para agarrar objetos manten pulsado "E".
 
 ## Autores
 
