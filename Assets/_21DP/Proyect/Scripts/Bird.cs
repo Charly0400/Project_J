@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Bird : MonoBehaviour
 {
+    Animator animator;
     public Transform player;
     public static Transform currentTarget;
     public float speed;
@@ -12,14 +13,21 @@ public class Bird : MonoBehaviour
     Vector3 normalizaDir = Vector3.zero;
     private void Start()
     {
+        animator = GetComponent<Animator>();
         currentTarget = player;
     }
 
     void Update()
     {
-        if (Vector3.Distance(currentTarget.position, transform.position) <1 )
+        if (Vector3.Distance(currentTarget.position, transform.position) < 1)
         {
+            animator.SetInteger("fly", 0);
             return;
+            
+        }
+
+        else { 
+            animator.SetInteger("fly", 1);
         }
         direction = currentTarget.position - transform.position;
 

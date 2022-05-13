@@ -23,8 +23,8 @@ public class Destructible : MonoBehaviour
         {
             GetComponent<Animator>().enabled = true;
             GetComponent<Dropper>().Drop(transform.position);
-            Destroy(gameObject);
-                    
+            Destroy(gameObject, 0.9f);
+    
         }
     }
 
